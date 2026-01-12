@@ -10,7 +10,7 @@ LIMA è un sistema di tutoraggio digitale alimentato da IA, progettato per forni
 
 ## 📚 Naviga il materiale
 
-- **[Documentazione Tesi](./01_Documentazione/)** – Tesi completa, abstract, indice
+- **[Documentazione Tesi](./01_Documentazione/)** – Tesi completa, abstract
 - **[Ricerca & Interviste](./02_Ricerca/)** 
 - **[Design & Prototipi](./03_Design_e_prototipi/)** 
 
